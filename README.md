@@ -73,3 +73,38 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00D4,100:EEFF00&height=120&section=footer"/>
 </p>
+<!-- Custom Sleek Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:ff00d4&height=200&section=header&text=Eyad%20Wael&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Developer%20%7C%20UI%2FUX%20%26%20Creative%20Coder&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+</p>
+
+<!-- Animated Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=👋+Hey%2C+I'm+Eyad+Wael;💻+Passionate+Developer+from+Asyut%2C+Egypt;⚛️+Building+with+JavaScript%2C+React+%26+Next.js;🎨+Designing+Clean+Web+Experiences" alt="Typing SVG" />
+</p>
+
+<br/>
+
+<!-- Two-Column Bio & Code Card -->
+<table align="center" width="100%">
+  <tr>
+    <td width="52%" valign="top">
+      <h3>👨‍💻 About Me</h3>
+      <ul>
+        <li>🌍 Based in <b>Asyut, Egypt</b>[cite: 1]</li>
+        <li>🔭 Currently working on <b>improving myself</b>[cite: 1]</li>
+        <li>🌱 Currently learning <b>JavaScript & React</b>[cite: 1]</li>
+        <li>💼 Portfolio: <a href="http://eyad-wael.rf.gd/"><b>eyad-wael.rf.gd</b></a>[cite: 1]</li>
+        <li>📫 Reach me: <a href="mailto:its-eyadwael@protonmail.com"><b>its-eyadwael@protonmail.com</b></a>[cite: 1]</li>
+      </ul>
+    </td>
+    <td width="48%" valign="top">
+
+```js
+const eyad = {
+  role: "Front-End Developer",
+  location: "Asyut, Egypt",
+  code: ["HTML", "CSS", "JS", "React", "Next.js"],
+  design: ["Photoshop", "Illustrator", "Tailwind"],
+  focus: "Leveling up every single day 🚀"
+};
