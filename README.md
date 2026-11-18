@@ -2,11 +2,6 @@
 
 ### A passionate developer from asyut
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eyad09268&label=Profile views&color=0e75b6&style=flat" alt="eyad09268" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eyad09268" alt="eyad09268" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@eyad09268" target="blank"><img src="https://img.shields.io/twitter/follow/@eyad09268?logo=twitter&style=for-the-badge" alt="@eyad09268" /></a> </p>
 
 - 🔭 I'm currently working on **improving myself**
 
