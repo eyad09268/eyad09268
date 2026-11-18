@@ -1,60 +1,28 @@
 # Hi 👋, I'm Eyad Wael
 
-### Developer, AI Vibe Coder & Graphic Designer from Asyut, Egypt
+### A passionate developer from asyut
 
-I blend **AI-assisted development (vibe coding)** with **graphic design** to turn ideas into clean, functional, and visually polished web experiences.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eyad09268&label=Profile views&color=0e75b6&style=flat" alt="eyad09268" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eyad09268" alt="eyad09268" /></a> </p>
 
-### ✨ About Me
+<p align="left"> <a href="https://twitter.com/@eyad09268" target="blank"><img src="https://img.shields.io/twitter/follow/@eyad09268?logo=twitter&style=for-the-badge" alt="@eyad09268" /></a> </p>
 
-- 🔭 Currently working on **improving myself** and shipping creative web projects
-- ⚡ Skilled in **AI Vibe Coding** — rapidly prototyping, iterating, and building apps with AI-driven workflows
-- 🎨 Experienced in **Graphic Design** — crafting visuals, layouts, and digital assets in Adobe Photoshop & Illustrator
-- 🌱 Currently deepening my skills in **JavaScript & React**
-- 👨‍💻 All of my projects are available at **[eyad-wael.rf.gd](http://eyad-wael.rf.gd/)**
-- 📫 How to reach me: **[its-eyadwael@protonmail.com](mailto:its-eyadwael@protonmail.com)**
+- 🔭 I'm currently working on **improving myself**
 
----
+- 🌱 I'm currently learning **js & react **
 
-### 🛠️ Languages & Tools
+- 📫 How to reach me **its-eyadwael@protonmail.com**
 
-**Web & Mobile Development**
+- 👨‍💻 All of my projects are available at **[http://eyad-wael.rf.gd/](http://eyad-wael.rf.gd/)**
 
-&lt;p align=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,js,react,nextjs,tailwind,bootstrap,flutter&quot; alt=&quot;Web and Mobile Development Stack&quot; /&gt;
-&lt;/p&gt;
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/eyad09268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="eyad09268" height="30" width="40" /></a>
+<a href="https://codepen.io/eyad-wael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="eyad-wael" height="30" width="40" /></a>
+<a href="https://instagram.com/its_eyadwael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_eyadwael" height="30" width="40" /></a>
+<a href="https://twitter.com/@eyad09268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@eyad09268" height="30" width="40" /></a>
+</p>
 
-**Database & Systems**
-
-&lt;p align=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmysql,linux&quot; alt=&quot;Database and OS&quot; /&gt;
-&lt;/p&gt;
-
-**Graphic Design**
-
-&lt;p align=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://skillicons.dev/icons?i=photoshop,illustrator&quot; alt=&quot;Graphic Design Tools&quot; /&gt;
-&lt;/p&gt;
-
----
-
-### 🤝 Connect with Me
-
-&lt;p align=&quot;left&quot;&gt;
-  &lt;a href=&quot;https://github.com/eyad09268&quot; target=&quot;_blank&quot; rel=&quot;noreferrer&quot;&gt;
-    &lt;img src=&quot;https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white&quot; alt=&quot;GitHub&quot; /&gt;
-  &lt;/a&gt;
-  &lt;a href=&quot;https://codepen.io/eyad-wael&quot; target=&quot;_blank&quot; rel=&quot;noreferrer&quot;&gt;
-    &lt;img src=&quot;https://img.shields.io/badge/CodePen-000000?style=for-the-badge&amp;logo=codepen&amp;logoColor=white&quot; alt=&quot;CodePen&quot; /&gt;
-  &lt;/a&gt;
-  &lt;a href=&quot;https://instagram.com/its_eyadwael&quot; target=&quot;_blank&quot; rel=&quot;noreferrer&quot;&gt;
-    &lt;img src=&quot;https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white&quot; alt=&quot;Instagram&quot; /&gt;
-  &lt;/a&gt;
-  &lt;a href=&quot;https://twitter.com/@eyad09268&quot; target=&quot;_blank&quot; rel=&quot;noreferrer&quot;&gt;
-    &lt;img src=&quot;https://img.shields.io/badge/X-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white&quot; alt=&quot;X (Twitter)&quot; /&gt;
-  &lt;/a&gt;
-  &lt;a href=&quot;mailto:its-eyadwael@protonmail.com&quot;&gt;
-    &lt;img src=&quot;https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&amp;logo=protonmail&amp;logoColor=white&quot; alt=&quot;ProtonMail&quot; /&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a></p>
