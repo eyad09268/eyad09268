@@ -1,8 +1,3 @@
-<!-- Creative Banner -->
-<p align="center">
- <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-</p>
-
 <!-- Typing Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=650&lines=👋+Hi%2C+I'm+Eyad+Wael;💻+Passionate+Developer+from+Asyut;⚛️+Learning+JS+%26+React;🚀+Improving+Myself+Every+Day" alt="Typing SVG" />
@@ -49,22 +44,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eyad09268&theme=github-dark&hide_border=true&area=true" />
-</p>
-
----
-
-## 🏆 Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eyad09268&theme=discord&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 🎨 A Touch of Fun  
-
-<p align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" />
 </p>
 
 ---
