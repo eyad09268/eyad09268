@@ -1,7 +1,4 @@
-<!-- Creative Banner -->
-<p align="center">
- <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-</p>
+
 
 <!-- Typing Intro -->
 <p align="center">
@@ -19,17 +16,32 @@
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/eyad09268" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://codepen.io/eyad-wael" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
-  <a href="https://instagram.com/its_eyadwael" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://twitter.com/@eyad09268" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://tiktok.com/@its_eyad_wael" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-  <a href="https://guns.lol/eyad09268" target="_blank"><img src="https://img.shields.io/badge/Guns.lol-121212?style=for-the-badge&logo=linktree&logoColor=white" /></a>
-</p>
-
+<div align="center">
+  <table>
+    <tr>
+      <td width="320" align="center">
+        <marquee behavior="scroll" direction="left" scrollamount="4">
+          <a href="https://github.com/eyad09268"><img src="https://skillicons.dev/icons?i=github" width="38"/></a>&nbsp;&nbsp;
+          <a href="https://codepen.io/eyad-wael"><img src="https://skillicons.dev/icons?i=codepen" width="38"/></a>&nbsp;&nbsp;
+          <a href="https://instagram.com/its_eyadwael"><img src="https://skillicons.dev/icons?i=instagram" width="38"/></a>&nbsp;&nbsp;
+          <a href="https://x.com/eyad09268"><img src="https://skillicons.dev/icons?i=twitter" width="38"/></a>&nbsp;&nbsp;
+          <a href="https://tiktok.com/@its_eyad_wael"><img src="https://img.shields.io/badge/-TikTok-1a1b27?style=for-the-badge&logo=tiktok&logoColor=00F7FF" height="38"/></a>&nbsp;&nbsp;
+          <a href="https://guns.lol/eyad09268"><img src="https://img.shields.io/badge/-Guns.lol-1a1b27?style=for-the-badge&logo=linktree&logoColor=43E660" height="38"/></a>
+        </marquee>
+        <br/>
+        <marquee behavior="scroll" direction="right" scrollamount="3">
+          <a href="http://eyad-wael.rf.gd/"><img src="https://img.shields.io/badge/-Portfolio-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=00F7FF" height="38"/></a>&nbsp;&nbsp;
+          <a href="mailto:its-eyadwael@protonmail.com"><img src="https://img.shields.io/badge/-ProtonMail-1a1b27?style=for-the-badge&logo=protonmail&logoColor=8B89CC" height="38"/></a>&nbsp;&nbsp;
+          <a href="https://github.com/eyad09268"><img src="https://skillicons.dev/icons?i=github" width="38"/></a>&nbsp;&nbsp;
+          <a href="https://instagram.com/its_eyadwael"><img src="https://skillicons.dev/icons?i=instagram" width="38"/></a>&nbsp;&nbsp;
+          <a href="https://codepen.io/eyad-wael"><img src="https://skillicons.dev/icons?i=codepen" width="38"/></a>
+        </marquee>
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 ## ⚡ Tech Arsenal  
@@ -49,22 +61,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eyad09268&theme=github-dark&hide_border=true&area=true" />
-</p>
-
----
-
-## 🏆 Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eyad09268&theme=discord&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 🎨 A Touch of Fun  
-
-<p align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" />
 </p>
 
 ---
