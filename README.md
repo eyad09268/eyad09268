@@ -1,24 +1,37 @@
-# Hi 👋, I'm Eyad Wael
+<h1 align="center">Hi 👋, I'm Eyad Wael</h1>
+<h3 align="center">Developer from Asyut, Egypt</h3>
 
-### A passionate developer from asyut
-
-
-- 🔭 I'm currently working on **improving myself**
-
-- 🌱 I'm currently learning **js & react **
-
-- 📫 How to reach me **its-eyadwael@protonmail.com**
-
-- 👨‍💻 All of my projects are available at **[http://eyad-wael.rf.gd/](http://eyad-wael.rf.gd/)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/eyad09268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="eyad09268" height="30" width="40" /></a>
-<a href="https://codepen.io/eyad-wael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="eyad-wael" height="30" width="40" /></a>
-<a href="https://instagram.com/its_eyadwael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_eyadwael" height="30" width="40" /></a>
-<a href="https://twitter.com/@eyad09268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@eyad09268" height="30" width="40" /></a>
+<p align="center">
+  I'm focused on improving my skills and building useful things. I'm currently learning <strong>JavaScript and React</strong>.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a></p>
+<p align="center">
+  <a href="http://eyad-wael.rf.gd/">🌐 Explore my projects</a>
+  ·
+  <a href="mailto:its-eyadwael@protonmail.com">📫 Get in touch</a>
+</p>
 
+---
+
+### Connect with me
+
+<p>
+  <a href="https://github.com/eyad09268" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://codepen.io/eyad-wael" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+  </a>
+  <a href="https://instagram.com/its_eyadwael" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://twitter.com/eyad09268" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
+
+### Languages and tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,flutter,linux,mysql,ai,ps" alt="HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Bootstrap, Flutter, Linux, MySQL, Illustrator, and Photoshop" />
+</p>
