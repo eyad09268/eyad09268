@@ -1,4 +1,7 @@
-
+<!-- Creative Banner -->
+<p align="center">
+ <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+</p>
 
 <!-- Typing Intro -->
 <p align="center">
@@ -8,40 +11,25 @@
 ---
 
 ## 👨‍💻 About Me  
-✨ Passionate developer from **Asyut**.  
-🔭 Currently working on **improving myself**.  
-🌱 Currently learning **JS & React**.  
-🌍 Portfolio → [eyad-wael.rf.gd](http://eyad-wael.rf.gd/)  
-📬 Reach me → **its-eyadwael@protonmail.com**  
+✨ Passionate developer from **Asyut**[cite: 1].  
+🔭 Currently working on **improving myself**[cite: 1].  
+🌱 Currently learning **JS & React**[cite: 1].  
+🌍 Portfolio → [eyad-wael.rf.gd](http://eyad-wael.rf.gd/)[cite: 1]  
+📬 Reach me → **its-eyadwael@protonmail.com**[cite: 1]  
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me  
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="320" align="center">
-        <marquee behavior="scroll" direction="left" scrollamount="4">
-          <a href="https://github.com/eyad09268"><img src="https://skillicons.dev/icons?i=github" width="38"/></a>&nbsp;&nbsp;
-          <a href="https://codepen.io/eyad-wael"><img src="https://skillicons.dev/icons?i=codepen" width="38"/></a>&nbsp;&nbsp;
-          <a href="https://instagram.com/its_eyadwael"><img src="https://skillicons.dev/icons?i=instagram" width="38"/></a>&nbsp;&nbsp;
-          <a href="https://x.com/eyad09268"><img src="https://skillicons.dev/icons?i=twitter" width="38"/></a>&nbsp;&nbsp;
-          <a href="https://tiktok.com/@its_eyad_wael"><img src="https://img.shields.io/badge/-TikTok-1a1b27?style=for-the-badge&logo=tiktok&logoColor=00F7FF" height="38"/></a>&nbsp;&nbsp;
-          <a href="https://guns.lol/eyad09268"><img src="https://img.shields.io/badge/-Guns.lol-1a1b27?style=for-the-badge&logo=linktree&logoColor=43E660" height="38"/></a>
-        </marquee>
-        <br/>
-        <marquee behavior="scroll" direction="right" scrollamount="3">
-          <a href="http://eyad-wael.rf.gd/"><img src="https://img.shields.io/badge/-Portfolio-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=00F7FF" height="38"/></a>&nbsp;&nbsp;
-          <a href="mailto:its-eyadwael@protonmail.com"><img src="https://img.shields.io/badge/-ProtonMail-1a1b27?style=for-the-badge&logo=protonmail&logoColor=8B89CC" height="38"/></a>&nbsp;&nbsp;
-          <a href="https://github.com/eyad09268"><img src="https://skillicons.dev/icons?i=github" width="38"/></a>&nbsp;&nbsp;
-          <a href="https://instagram.com/its_eyadwael"><img src="https://skillicons.dev/icons?i=instagram" width="38"/></a>&nbsp;&nbsp;
-          <a href="https://codepen.io/eyad-wael"><img src="https://skillicons.dev/icons?i=codepen" width="38"/></a>
-        </marquee>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <a href="https://github.com/eyad09268" target="_blank"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=00F7FF" /></a>
+  <a href="https://codepen.io/eyad-wael" target="_blank"><img src="https://img.shields.io/badge/CodePen-1a1b27?style=for-the-badge&logo=codepen&logoColor=white" /></a>
+  <a href="https://instagram.com/its_eyadwael" target="_blank"><img src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=FF00D4" /></a>
+  <a href="https://x.com/eyad09268" target="_blank"><img src="https://img.shields.io/badge/X-1a1b27?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://tiktok.com/@its_eyad_wael" target="_blank"><img src="https://img.shields.io/badge/TikTok-1a1b27?style=for-the-badge&logo=tiktok&logoColor=00F7FF" /></a>
+  <a href="https://guns.lol/eyad09268" target="_blank"><img src="https://img.shields.io/badge/Guns.lol-1a1b27?style=for-the-badge&logo=linktree&logoColor=EEFF00" /></a>
+</p>
+
 ---
 
 ## ⚡ Tech Arsenal  
@@ -61,6 +49,22 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eyad09268&theme=github-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🏆 Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=eyad09268&theme=discord&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🎨 A Touch of Fun  
+
+<p align="center">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" />
 </p>
 
 ---
